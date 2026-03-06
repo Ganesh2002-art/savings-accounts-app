@@ -65,7 +65,7 @@ savings-accounts-app
 │
 ├── components
 │   ├── AccountCard.js
-│   └── ProductNavigation.js
+│   └── Navigation.js
 │
 ├── screens
 │   └── SavingsAccountsScreen.js
